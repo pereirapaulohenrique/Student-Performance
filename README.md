@@ -1,7 +1,4 @@
-# Portfolio Project README on Github
-
-## Title
-Students Performance Linear Regression
+# Students Performance Linear Regression
 
 ## Description
 This project replicates the Linear Regression chapter from the book "Hands-on Machine Learning with Scikit-learn, Keras, and Tensorflow" using the Student_Performance dataset. The goal is to practice and understand linear regression principles by predicting a student's performance index based on various factors.
@@ -36,7 +33,7 @@ This project replicates the Linear Regression chapter from the book "Hands-on Ma
 - Include visualizations and interactive elements.
 
 ## Author
-[Your Name/Github Username]
+Paulo/pereirapaulohenrique
 
 ## Contributions
 Feel free to fork this repository and contribute your improvements!
